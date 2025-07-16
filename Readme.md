@@ -1,4 +1,4 @@
-- 사용한 룰
+- 사용한 룰(rule)
 ```text
     1. 한글로 설명해줘
     2. filesystem mcp 서버를 이용해서 ipynb 파일을 작성해줘
